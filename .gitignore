@@ -22,3 +22,4 @@ ShopBridgeUnitTest/bin/Debug/net5.0/ref/ShopBridgeUnitTest.dll
 ShopBridgeUnitTest/bin/Debug/net5.0/CoverletSourceRootsMapping
 ShopBridgeBackEnd/obj/Debug/net5.0/ShopBridgeBackEnd.csproj.AssemblyReference.cache
 ShopBridgeBackEnd/obj/Debug/net5.0/ShopBridgeBackEnd.assets.cache
+*.cache
